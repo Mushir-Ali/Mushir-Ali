@@ -1,6 +1,6 @@
-### Hi, I'm Mushir 👋
+### Hi, I'm Mushir Ali
 
-Software Development Engineer at **Newton School** and a **competitive programmer** and an **open-source contributor** at heart. I work at the intersection of **full-stack engineering** and **problem solving** — building scalable backends, shipping AI-driven products, and sharpening the algorithms underneath both.
+Software Development Engineer at **Newton School**, a **competitive programmer** and an **open-source contributor** at heart. I work at the intersection of **full-stack engineering** and **problem solving** — building scalable backends, shipping AI-driven products, and sharpening the algorithms underneath both.
 
 ---
 
