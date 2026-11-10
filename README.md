@@ -13,8 +13,6 @@ Software Development Engineer at **Newton School** and a competitive programmer 
 #### What I've Built & Run
 - **Newton School** — Software Development Engineer *(Oct 2025 – present)*
   Building the Core LMS and code execution sandbox · Node.js, Express.js, React.js, microservices, AWS
-- **Newton School** — Lead, Super Acads
-  Led hackathons and competitive programming cohorts · mentored students through structured coding practice
 - **Coding Blocks** — Product Engineer Intern *(Sept 2024 – Mar 2025)*
   REST APIs integrating LeetCode and Codeforces data for 1,000+ users · latency and memory optimizations · worked in a cross-functional team of 6+
 
