@@ -19,7 +19,6 @@ Software Development Engineer at **Newton School**, a **competitive programmer**
 #### Competitive Programming
 - **Codeforces** — Specialist (max 1491) · 700+ problems solved · rank 1,071 of 19,000+ in Educational Round 175 (top 7.5%)
 - **LeetCode** — Knight (max 1876, top 4.9% worldwide) · 600+ problems solved · rank 553 of 18,000+ in Biweekly Contest 150
-- **ICPC** — AIR 1115 in the Preliminary Round
 - **Favourite topics:** Dynamic Programming, Graphs, Trees, Greedy, Binary Search
 
 #### Toolbox
